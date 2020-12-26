@@ -15,6 +15,9 @@
 - JVM
 
   - 持续更新中
+- SQL
+
+  - [SQL系列：当INSERT遇到SELECT]（https://mp.weixin.qq.com/s/aXUqdFCOl4usD3SIaKIbqQ）
   
 - 常用开发工具集
 
