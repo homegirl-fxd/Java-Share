@@ -24,7 +24,8 @@
 - 面试技巧
   
 - Java 最全干货下载
-  - 百度云盘链接（https://pan.baidu.com/s/1ie-EuBNnJ8nXaPcEGlm2nQ） 提取码：69i7
+  - 从小白到大牛你需要的38张史上最全的IT工程师技能图谱（高清）（https://pan.baidu.com/s/1Orj8eeu4CaYf2PS9h-KOZg） 提取码：cleo
+  - Java基础电子书（链接：https://pan.baidu.com/s/1Rc7YDBk1BF-hhdR4yKvIyg） 提取码：baby 
 
 
 欢迎大家和我交流，指正我的错误，互相学习。公众号：Java解忧铺  联系铺主即可。
