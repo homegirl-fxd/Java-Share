@@ -24,7 +24,7 @@
 - 面试技巧
   
 - Java 最全干货下载
-  - 从小白到大牛你需要的38张史上最全的IT工程师技能图谱（高清）（https://pan.baidu.com/s/1Orj8eeu4CaYf2PS9h-KOZg） 提取码：cleo
+  - 从小白到大牛你需要的38张IT工程师技能图谱（高清）（https://pan.baidu.com/s/1Orj8eeu4CaYf2PS9h-KOZg） 提取码：cleo
   - Java基础电子书（链接：https://pan.baidu.com/s/1Rc7YDBk1BF-hhdR4yKvIyg） 提取码：baby 
 
 
